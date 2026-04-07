@@ -9,12 +9,14 @@ Instalación
 
 Copiar los archivos en:
 C:\xampp\htdocs\techstore
+
 Crear base de datos:
 techstore
+
 Importar el archivo:
 techstore.sql
-Ejecutar en el navegador:
-http://localhost/techstore
+
+Ejecutar en el navegador
 
 
 usuario de prueba:
